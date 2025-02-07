@@ -1,6 +1,5 @@
 package solution;
 
-
 /* 문제 : 두 개 뽑아서 더하기 */
 
 import java.util.HashSet;
