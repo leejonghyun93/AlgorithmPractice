@@ -19,7 +19,7 @@ class Solution39 {
             this.ny = ny;
         }
     }
-
+//sadas da
     private static char[][] map;
     private static int N, M;
 
